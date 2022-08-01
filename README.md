@@ -12,7 +12,7 @@ The following instructions help you to set up a copy of the project and run it o
   
 ### Project SetUp
 1. Open a new terminal (git bash) on code editor and move to your project directory ``` cd /your/project/path```
-2. Run ```git clone https://github.com/Roopini-MN/OneFootballTask.git```
+2. Run ```git clone https://github.com/Roopini-Narendra/OneFootballTask.git```
 3. Run ```$ npm install``` command on your terminal`
 
 ### Running tests
