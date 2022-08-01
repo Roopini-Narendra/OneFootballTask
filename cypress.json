@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://en.wikipedia.org/",
+  "retries": 2,
+  "defaultCommandTimeout": 10000,
+  "env": {
+    "browser": "chrome"
+  }
+}
